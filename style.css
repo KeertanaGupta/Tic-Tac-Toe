@@ -57,16 +57,3 @@ body{
     opacity: 0.8;
     cursor: pointer;
 }
-/* Media query for smaller screens */
-@media (max-width: 768px) {
-    .game {
-        height: 70vmin;
-        width: 70vmin;
-    }
-
-    .box {
-        height: 20vmin;
-        width: 20vmin;
-        font-size: 10vmin;
-    }
-}
