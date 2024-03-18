@@ -64,13 +64,13 @@ body{
     }
 
     .game {
-        height: 40vmin;
-        width: 40vmin;
+        height: 50vmin;
+        width: 50vmin;
     }
 
     .box {
-        height: 12vmin;
-        width: 12vmin;
-        font-size: 6vmin;
+        height: 16vmin;
+        width: 16vmin;
+        font-size: 7vmin;
     }
 }
