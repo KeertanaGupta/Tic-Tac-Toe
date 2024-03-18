@@ -60,13 +60,12 @@ body{
 /* Media query for smaller screens */
 @media (max-width: 768px) {
     .container {
-        height: 50vh;
+        height: 60vh;
     }
     .game {
         height: 40vmin;
         width: 40vmin;
     }
-
     .box {
         height: 13vmin;
         width: 13min;
