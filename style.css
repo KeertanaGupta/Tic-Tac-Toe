@@ -60,7 +60,7 @@ body{
 /* Media query for smaller screens */
 @media (max-width: 768px) {
     .container {
-        height: 40vh;
+        height: 35vh;
     }
 
     .game {
