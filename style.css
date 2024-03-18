@@ -62,3 +62,13 @@ body{
     .container {
         height: 30vh;
     }
+    .game {
+        height: 50vmin;
+        width: 50vmin;
+    }
+
+    .box {
+        height: 15vmin;
+        width: 15vmin;
+        font-size: 7vmin;
+    }
