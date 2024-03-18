@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+    font-size: 4rem;
+    font-family: 'ADLaM Display';
+    text-decoration: underline double rgb(219, 248, 57);
+    padding-bottom: 20px;
+}
+body{
+    background-color: rgb(49, 108, 108);
+    text-align: center;
+}
+.container{
+    height: 70vh;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5vmin;
+}
+.game{
+    height: 60vmin;
+    width: 60vmin;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5vmin;
+}
+.box{
+    height: 18vmin;
+    width: 18vmin;
+    border-radius: 1rem;
+    border: none;
+    box-shadow: 0 0 1rem rgba(0,0,0,0.5);
+    font-size: 8vmin;
+    color: rgb(232, 52, 52);
+}
+.box:hover{
+    cursor: pointer;
+}
+.reset{
+    height: 4rem;
+    background-color: black;
+    font-size: 1.5rem;
+    color: #fff;
+    border: 2px solid white;
+    border-radius: 5px;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    display: inline;
+}
+.reset:hover{
+    opacity: 0.8;
+    cursor: pointer;
+}
