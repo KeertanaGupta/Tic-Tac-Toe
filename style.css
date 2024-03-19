@@ -10,7 +10,7 @@ h1{
     padding-bottom: 20px;
 }
 body{
-    background-color: rgb(49, 108, 108);
+    background:radial-gradient(rgb(52, 52, 235),rgb(252, 90, 239));
     text-align: center;
 }
 .container{
@@ -37,7 +37,9 @@ body{
     border: none;
     box-shadow: 0 0 1rem rgba(0,0,0,0.5);
     font-size: 8vmin;
-    color: rgb(232, 52, 52);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    font-weight: bolder;
 }
 .box:hover{
     cursor: pointer;
@@ -73,4 +75,9 @@ body{
         width: 12vmin;
         font-size: 6vmin;
     }
+}
+.player{
+    font-weight: bolder;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
 }
