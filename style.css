@@ -10,7 +10,7 @@ h1{
     padding-bottom: 20px;
 }
 body{
-    background:radial-gradient(rgb(52, 52, 235),rgb(252, 90, 239));
+    background:radial-gradient(rgb(52, 52, 235),pink);
     text-align: center;
 }
 .container{
