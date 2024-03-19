@@ -55,7 +55,7 @@ const checkWinner = () => {
         }
     }
 
-    // Check for a tie
+    // Check for a Tie
     if (Array.from(boxes).every(box => box.disabled)) {
         $("h1").text("It's a Tie!!");
     }
