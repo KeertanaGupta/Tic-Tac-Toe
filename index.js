@@ -26,9 +26,11 @@ boxes.forEach((box) => {
     box.addEventListener("click", () => {
         if (turnO) {
             box.textContent = "O";
+            $("h1").text("Player-2")
             turnO = false;
         } else {
             box.textContent = "X";
+            $("h1").text("Player-1")
             turnO = true;
         }
         box.disabled = true;
@@ -44,9 +46,9 @@ const checkWinner = () => {
 
         if (pos1Val !== "" && pos1Val === pos2Val && pos2Val === pos3Val) {
             if (pos1Val === "O") {
-                $("h1").text("Player O is Winner!!");
+                $("h1").text("Player 1 is Winner!!");
             } else {
-                $("h1").text("Player X is Winner!!");
+                $("h1").text("Player 2 is Winner!!");
             }
             disableAllBoxes();
             return;
