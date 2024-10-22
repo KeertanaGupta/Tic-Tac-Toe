@@ -18,4 +18,4 @@ JavaScript: Game logic and interactivity.
 📁 Getting Started:
 Clone the repository and open index.html in your browser to start playing!
 
-https://github.com/user-attachments/assets/ab216346-0c5b-4564-b197-68a18fdf5e27
+https://github.com/user-attachments/assets/ea63a5f8-c39c-4963-a5ae-7c986ab651ba
