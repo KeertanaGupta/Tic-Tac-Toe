@@ -1,5 +1,7 @@
 # Tic-Tac-Toe
 Tic-Tac-Toe Game
+https://github.com/user-attachments/assets/ea63a5f8-c39c-4963-a5ae-7c986ab651ba
+
 🎮 Overview:
 Dive into the classic game of Tic-Tac-Toe! This interactive web application allows two players to challenge each other in a fun and stylish environment. Built with HTML, CSS, and JavaScript, it’s a great example of combining web technologies to create an engaging user experience.
 
@@ -17,5 +19,3 @@ JavaScript: Game logic and interactivity.
 
 📁 Getting Started:
 Clone the repository and open index.html in your browser to start playing!
-
-https://github.com/user-attachments/assets/ea63a5f8-c39c-4963-a5ae-7c986ab651ba
